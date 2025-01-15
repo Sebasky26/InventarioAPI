@@ -23,12 +23,6 @@
    ```bash
    ./gradlew bootRun
    ```
-
-   Con **Maven**:
-   ```bash
-   mvn spring-boot:run
-   ```
-
 3. **Probar la API en Postman Web**
 
     - **GET** - Consultar producto:
@@ -90,13 +84,6 @@
 4. **Validación de Aserciones en `actualizarStock()`**
 
 ### **Ejecutar Pruebas:**
-
-Con **Gradle**:
-
-```bash
-./gradlew test
-```
-
 Con **Maven**:
 
 ```bash
