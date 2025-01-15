@@ -84,10 +84,10 @@
 4. **Validación de Aserciones en `actualizarStock()`**
 
 ### **Ejecutar Pruebas:**
-Con **Maven**:
+Con **Gradle**:
 
 ```bash
-mvn test
+./gradlew test
 ```
 
 Resultado esperado:
